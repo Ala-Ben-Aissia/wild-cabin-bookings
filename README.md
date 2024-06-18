@@ -1,7 +1,7 @@
-# Cabin Retreat Employee Portal
+# Cabin Booking Employee Portal
 
 ## Overview
-**Cabin Retreat Employee Portal** is a specialized application designed for company employees to manage cabin bookings and oversee operations seamlessly. This app facilitates user registration, guest check-ins and check-outs, and provides an intuitive dashboard displaying booking statistics. Built using React, React Query, Supabase for the backend, and Styled Components for styling, it ensures a smooth and efficient user experience with a clean and maintainable codebase.
+**Cabin Booking Employee Portal** is a specialized application designed for company employees to manage cabin bookings and oversee operations seamlessly. This app facilitates user registration, guest check-ins and check-outs, and provides an intuitive dashboard displaying booking statistics. Built using React, React Query, Supabase for the backend, and Styled Components for styling, it ensures a smooth and efficient user experience with a clean and maintainable codebase.
 
 ## Features
 - **Employee Management**: Register new employees and manage existing user accounts.
