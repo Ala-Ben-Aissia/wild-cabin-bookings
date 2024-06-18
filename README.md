@@ -56,4 +56,4 @@
   - **Update Settings**: users can update cabin details and other settings.
 
 ## Design Patterns
-  **Compound Component Pattern**: Utilized for creating flexible and reusable UI components.
+  - **Compound Component Pattern**: Utilized for creating flexible and reusable UI components.
