@@ -15,8 +15,8 @@
 - **Backend**: Supabase
 - **Styling**: Styled Components
 - **Design Pattern**: Compound Component Pattern
-- **State Management**: Context API (or any state management library if used)
-- **Deployment**: Vercel, Netlify, or any preferred hosting service
+- **State Management**: React Query (remote state management) and Context API (local state management)
+- **Deployment**: Netlify: https://wild-cabin-bookings.netlify.app/login
 
 ## Installation
 1. **Clone the repository**:
@@ -26,7 +26,7 @@
 
 2. **Navigate to the project directory**:
   ```bash
-  cd cabin-retreat-employee-portal
+  cd wild-cabin-bookings
   ```
 
 3. **Install dependencies**:
